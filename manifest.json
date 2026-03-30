@@ -1,0 +1,16 @@
+{
+    "name": "Swordle",
+    "short_name": "Swordle",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#121213",
+    "theme_color": "#121213",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ]
+}
